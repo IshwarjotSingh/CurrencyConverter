@@ -1,0 +1,1 @@
+This repository hosts a simple yet powerful currency converter application. The converter allows users to quickly and accurately convert between different currencies based on real-time exchange rates.
